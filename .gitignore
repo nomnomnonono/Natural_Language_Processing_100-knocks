@@ -3,3 +3,5 @@
 *.json
 *.mecab
 .DS_Store
+*.parsed
+*.gv
