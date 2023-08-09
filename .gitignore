@@ -5,3 +5,5 @@
 .DS_Store
 *.parsed
 *.gv
+*.csv
+*.bin.gz
